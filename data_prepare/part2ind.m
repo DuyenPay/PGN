@@ -171,23 +171,23 @@ pimap{15}('lebrow')     = 1;                    % left eyebrow
 pimap{15}('rebrow')     = 1;                    % right eyebrow
 pimap{15}('nose')       = 1;                    
 pimap{15}('mouth')      = 1;                    
-pimap{15}('hair')       = 2;                   
+pimap{15}('hair')       = 1;                   
 
-pimap{15}('torso')      = 3;                   
-pimap{15}('neck')       = 4;           
-pimap{15}('llarm')      = 5;                   % left lower arm
-pimap{15}('luarm')      = 5;                   % left upper arm
-pimap{15}('lhand')      = 5;                   % left hand
-pimap{15}('rlarm')      = 6;                   % right lower arm
-pimap{15}('ruarm')      = 6;                   % right upper arm
-pimap{15}('rhand')      = 6;                   % right hand
+pimap{15}('torso')      = 2;                   
+pimap{15}('neck')       = 3;           
+pimap{15}('llarm')      = 4;                   % left lower arm
+pimap{15}('luarm')      = 4;                   % left upper arm
+pimap{15}('lhand')      = 4;                   % left hand
+pimap{15}('rlarm')      = 5;                   % right lower arm
+pimap{15}('ruarm')      = 5;                   % right upper arm
+pimap{15}('rhand')      = 5;                   % right hand
 
-pimap{15}('llleg')      = 7;               	% left lower leg
-pimap{15}('luleg')      = 7;               	% left upper leg
-pimap{15}('lfoot')      = 7;               	% left foot
-pimap{15}('rlleg')      = 8;               	% right lower leg
-pimap{15}('ruleg')      = 8;               	% right upper leg
-pimap{15}('rfoot')      = 8;               	% right foot
+pimap{15}('llleg')      = 6;               	% left lower leg
+pimap{15}('luleg')      = 6;               	% left upper leg
+pimap{15}('lfoot')      = 6;               	% left foot
+pimap{15}('rlleg')      = 7;               	% right lower leg
+pimap{15}('ruleg')      = 7;               	% right upper leg
+pimap{15}('rfoot')      = 7;               	% right foot
 
 % [pottedplant]
 pimap{16}('pot')        = 1;
